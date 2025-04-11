@@ -5,6 +5,9 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Buttons/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/HanddicapCalculator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SistemaCaixa/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sistema_Caixa/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FAQ/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
