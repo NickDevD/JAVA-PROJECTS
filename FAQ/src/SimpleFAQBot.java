@@ -7,8 +7,11 @@ import java.util.Scanner;
 public class SimpleFAQBot {
 
     static Map<String, String> carregarFAQ(String caminhoArquivo) {
+
         Map<String, String> faq = new HashMap<>();
+
         try (Scanner scannerArquivo = new Scanner(new File(caminhoArquivo))) {
+
             while (scannerArquivo.hasNextLine()) {
                 String linha = scannerArquivo.nextLine();
                 String[] partes = linha.split("\\?", 2); // Divide a linha na primeira ocorrência de '?'
