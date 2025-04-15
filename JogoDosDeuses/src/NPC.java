@@ -5,9 +5,9 @@ public class NPC {
     double poder;
     private static Random random = new Random();
 
-    public NPC(String nome, double poder){
+    public NPC(String nome){
         this.nome = nome;
-        this.poder = random.nextInt(10) + 1;
+        poder = random.nextInt(10) + 1;
 
     }
 
