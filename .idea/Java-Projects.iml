@@ -10,7 +10,10 @@
       <sourceFolder url="file://$MODULE_DIR$/FAQ/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CartasRandomicas/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JogoDosDeuses/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GerenciadorListas/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Calculadora/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GerenciadorTarefas/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Listas/Nomes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MediaNotas/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

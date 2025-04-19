@@ -18,9 +18,11 @@ public class Lista {
         System.out.println("tarefa removida: " + tarefa.getDescricao());
     }
 
+    int sequencia = 0;
     public void display(){
         for (Tarefa tarefa : tarefas){
-            System.out.println(tarefa.getDescricao());
+            sequencia++;
+            System.out.println("Tarefas: " + sequencia + "." + tarefa.getDescricao());
         }
     }
 }
