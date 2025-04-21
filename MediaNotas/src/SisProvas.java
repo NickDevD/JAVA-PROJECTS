@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class SisProvas {
+public class SisProvas  {
 
     ArrayList<Prova> notas;
 
@@ -13,8 +13,13 @@ public class SisProvas {
         System.out.println("Nota do aluno " + prova.getNome() + " adicionada");
     }
 
-    public void removeNotas(Prova prova){
-        notas.remove(prova);
-        System.out.println("Prova do aluno "+ prova.getNome()+" removida");
+    public void removeNotas(Prova prova1){
+        notas.remove(prova1);
+        System.out.println("Prova do aluno "+ prova1.getNome()+" removida");
     }
+
+    public void display(){
+
+    }
+
 }

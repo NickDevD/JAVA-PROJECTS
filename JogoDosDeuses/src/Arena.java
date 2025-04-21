@@ -2,7 +2,7 @@ import java.util.Random;
 
 public class Arena {
     public static void main(String[] args) {
-        Random random = new Random();
+
         NPC npc1 = new NPC("Zeus");
         System.out.println(npc1.getPoder());
 
@@ -17,3 +17,4 @@ public class Arena {
     }
 
 }
+
