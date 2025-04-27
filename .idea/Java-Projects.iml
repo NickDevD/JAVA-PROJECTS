@@ -18,6 +18,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Sistema_Caixa/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Listas/Map/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Listas/List/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ControleEstoque/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListarNomesPorLetra/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
