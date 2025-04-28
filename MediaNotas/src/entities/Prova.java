@@ -1,9 +1,13 @@
+package entities;
+
 public class Prova {
-    String nome;
-    String materia;
-    double nota;
+    private String nome;
+    private String materia;
+    private double nota;
 
     public Prova(String nome, String materia, double nota){
+        this.materia = materia;
+        this.nota = nota;
         this.nome = nome;
     }
 
@@ -30,4 +34,5 @@ public class Prova {
     public void setNota(double nota) {
         this.nota = nota;
     }
+
 }
