@@ -18,6 +18,8 @@ public class ListaFunc {
         for (Funcionario n : funcionarioList){
             if (n.getNome().startsWith("N")){
                 System.out.println(n.getNome());
+            }else{
+                System.out.println("Nenhum funcionário encontrado");
             }
         }
     }
