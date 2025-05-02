@@ -1,7 +1,7 @@
 public abstract class Atributos {
-    String nome;
-    double poder;
-    double vida;
+    private String nome;
+    private double poder;
+    private double vida;
 
     public Atributos(String nome, double poder, double vida){
         this.nome = nome;

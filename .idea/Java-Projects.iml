@@ -22,8 +22,6 @@
       <sourceFolder url="file://$MODULE_DIR$/ListarNomesPorLetra/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ControleEstoque2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GeradorNumAleatorios/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/MediaNotas2/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ContadorDeLetras/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JogoDarkestDungeon/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
