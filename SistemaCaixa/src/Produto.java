@@ -1,7 +1,7 @@
 public class Produto {
-    String nome;
-    int id;
-    double valor;
+    private String nome;
+    private int id;
+    private double valor;
 
     public Produto(String nome, int id, double valor){
         this.nome = nome;
@@ -10,21 +10,28 @@ public class Produto {
     }
 
     public String getNome() {
+
         return nome;
     }
 
-    public void setNome(String nome) {}
+    public void setNome(String nome) {
+
+    }
 
     public int getId() {
         return id;
 
     }
-    public void setId(int id) {}
+    public void setId(int id) {
+
+    }
 
     public double getValor() {
+
         return valor;
     }
-    public void setValor(double valor) {}
+    public void setValor(double valor) {
 
+    }
 
 }

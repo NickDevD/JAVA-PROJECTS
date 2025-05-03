@@ -11,5 +11,7 @@ public class nomeidadeMap {
         int idadeNick = nomeIdade.get("Nicholas");
 
         System.out.println(idadeNick);
+
+
     }
 }

@@ -4,6 +4,7 @@ public class Caixa {
         produto1.setId(002);
         Produto produto2 = new Produto("Feijão", 002, 5.49);
 
+
         sisCaixa c1 = new sisCaixa();
         c1.addProduto(produto1);
         c1.addProduto(produto2);
