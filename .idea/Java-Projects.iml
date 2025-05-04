@@ -23,8 +23,8 @@
       <sourceFolder url="file://$MODULE_DIR$/ControleEstoque2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GeradorNumAleatorios/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JogoDarkestDungeon/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Listas/Set/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/POO/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FinanciamentoSis/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SistemaBanco/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

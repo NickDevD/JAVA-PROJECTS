@@ -16,5 +16,6 @@ public class Tabuleiro {
             System.out.println("Mago recebeu um dano! Vida restante : " + vida);
         }
 
+
     }
 }
