@@ -9,7 +9,7 @@ public class Nomes01 {
         nome = new HashSet<>();
 
         nome.add("Nick");
-        nome.add("Gabi");
+        nome.add("Gabi"); 
 
         for (String n : nome){
             System.out.println(n);
