@@ -28,6 +28,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Listas/Set/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Calendario/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/HackerRank/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MoedasFormat/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
