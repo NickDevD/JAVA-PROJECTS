@@ -5,7 +5,7 @@ public class Operacoes {
     double div;
 
     public Operacoes(){
-
+        this.soma = soma;
     }
 
     public Operacoes(int soma, int subtracao, int multi, double div){
@@ -17,5 +17,7 @@ public class Operacoes {
 
     public double somar(int x, int y) {
         return x + y;
+
+
     }
 }

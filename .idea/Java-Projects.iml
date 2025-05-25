@@ -25,14 +25,16 @@
       <sourceFolder url="file://$MODULE_DIR$/JogoDarkestDungeon/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/FinanciamentoSis/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SistemaBanco/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Listas/Set/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Calendario/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/HackerRank/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/MoedasFormat/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/BD/myapp/myapp/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FinanciamentoSis/FincaciamentoSimples/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FinanciamentoSis/mCasaVida/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Functions/Calcular/src" isTestSource="false" />
+<<<<<<< HEAD
       <sourceFolder url="file://$MODULE_DIR$/ReservaCadeira/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sistema_Estoque/src" isTestSource="false" />
+=======
+      <sourceFolder url="file://$MODULE_DIR$/Functions/SimplesComRetorno/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Functions/SimplesSemRetorno/src" isTestSource="false" />
+>>>>>>> feaceaf9435e523375b0f66314d2ab3b2c219e0e
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
