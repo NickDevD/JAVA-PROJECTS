@@ -32,6 +32,7 @@
       <sourceFolder url="file://$MODULE_DIR$/BD/myapp/myapp/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Functions/Calcular/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ReservaCadeira/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sistema_Estoque/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
