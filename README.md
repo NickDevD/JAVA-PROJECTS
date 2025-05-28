@@ -1,6 +1,6 @@
 # Projetos JAVA
 
-Este reposit[orio é destinado ao armazenamento de projetos escritos em JAVA. Todos os projetos são focado na prática da lógica de programação e de assuntos essencias como POO, laços, condicionais etc.
+Este repositório é destinado ao armazenamento de projetos escritos em JAVA. Todos os projetos são focado na prática da lógica de programação e de assuntos essencias como POO, laços, condicionais etc.
 
 ## ☕ Funcionalidades
 
