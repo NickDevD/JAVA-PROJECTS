@@ -1,3 +1,5 @@
+package src;
+
 public class Cadastro {
     public static void main(String[] args) {
         Empregado empregado = new Empregado();
