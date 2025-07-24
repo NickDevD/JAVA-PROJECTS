@@ -1,35 +1,35 @@
-import java.sql.SQLOutput;
 import java.util.Stack;
 
 public class PiNomes {
-    Stack<String> nomes = new Stack<>();
-
-    public void push(String nome) {
-            nomes.push(nome);
-            System.out.println("Empilhou: "+nome);
-    }
-
-    public void peek() {
-        String nome = nomes.peek();
-        System.out.println(nome);
-    }
-
-    public void pop() {
-        String nome = nomes.pop();
-        System.out.println(nomes);
-    }
-
     public static void main(String[] args) {
 
-        PiNomes p = new PiNomes();
+        Stack<String> nomes = new Stack<>();
 
-        p.push("John");
-        p.push("Nick");
+        System.out.println("--------------------"); // Adiciona elementos a pilha
+        nomes.push("Jose");
+        nomes.push("Maria");
+        nomes.push("João");
 
+        int contador=0;
+        for (String nome : nomes) {
+            contador++;
+            System.out.println(contador+"."+nome); // Conta os elementos e retorna todos eles
+        }
 
-        p.peek();
+        System.out.println("--------------------");
+        String n = nomes.pop();
+        System.out.println("Rmovido: "+contador+"."+n); // Remove o elemento do topo da pilha
 
-        p.pop();
+        System.out.println("--------------------");
+        String n2 = nomes.peek();
+        System.out.println("Topo da pilha: "+contador+"."+n2); // Verifica o elemento no topo da pilha e o retorna
+
+        System.out.println("--------------------"); // Verifica se a pilha está vazia
+        Boolean v = nomes.empty();
+        System.out.println("Pilha está vazia? "+ v);
+
+        int search = nomes.search("Jose"); // Busca o elemento com base em um parâmetro
+        System.out.println(search);
 
     }
 }
