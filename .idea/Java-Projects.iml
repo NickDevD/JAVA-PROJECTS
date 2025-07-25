@@ -3,13 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/ListarNomesPorLetra/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/mysql_crud/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Calendario" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/CartasRandomicas" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ContadorDeLetras" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ControleEstoque" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ControleEstoque2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/EstruturaDados" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Pilhas/Pilha01" isTestSource="false" />
@@ -17,21 +11,29 @@
       <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/FinanciamentoSis" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Functions" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GeradorNumAleatorios" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GerenciadorTarefas" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/HackerRank" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/JogoDarkestDungeon" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/JogoDosDeuses" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ListarNomesPorLetra" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/MediaNotas" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MoedasFormat" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/POO" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Registro_Produtos/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SistemaBanco" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SistemaCaixa" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Sistema_Estoque" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/mysql_crud" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projetos_Avulsos/Calendario" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projetos_Avulsos/CartasRandomicas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projetos_Avulsos/ContadorDeLetras" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projetos_Avulsos/ControleEstoque" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projetos_Avulsos/ControleEstoque2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projetos_Avulsos/GeradorNumAleatorios" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projetos_Avulsos/GerenciadorTarefas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projetos_Avulsos/HackerRank" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projetos_Avulsos/JogoDarkestDungeon" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projetos_Avulsos/JogoDosDeuses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projetos_Avulsos/ListarNomesPorLetra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projetos_Avulsos/ListarNomesPorLetra/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projetos_Avulsos/MediaNotas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projetos_Avulsos/SistemaBanco" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projetos_Avulsos/SistemaCaixa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projetos_Avulsos/Sistema_Estoque" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Vetores_Matrizes/Matrizes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Vetores_Matrizes/Vetores" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
