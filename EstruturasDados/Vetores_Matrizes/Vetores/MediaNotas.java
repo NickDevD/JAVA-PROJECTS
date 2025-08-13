@@ -20,6 +20,6 @@ public class MediaNotas {
 
         }
         double media = soma/vetor.length;
-        System.out.println(media);
+        System.out.printf("%.2f", media);
     }
 }

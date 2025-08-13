@@ -2,17 +2,13 @@ import java.util.Stack;
 
 public class PilhaSimples {
 
-    public static void simularPilha() {
-
-
-
-    }
 
     public static void main(String[] args) {
 
 
 
     }
+
 }
 
 /*

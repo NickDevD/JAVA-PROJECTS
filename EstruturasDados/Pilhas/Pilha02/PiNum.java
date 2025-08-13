@@ -54,19 +54,18 @@ public class PiNum {
     public static void main(String[] args) {
         PiNum p = new PiNum();
 
-        p.push(10); // Pilha: [10], pos=0
-        p.push(20); // Pilha: [10, 20], pos=1
-        p.push(30); // Pilha: [10, 20, 30], pos=2
-        p.push(40); // Pilha cheia
+        p.push(5); // Pilha: [10], pos=0
+        p.push(8); // Pilha: [10, 20], pos=1
+        p.push(4); // Pilha: [10, 20, 30], pos=2
+        p.push(7); // Pilha cheia
 
         System.out.println("-------------");
 
         p.pop(); // Deverá imprimir "Pop: 30" (e 'posicao' vira 1)
         p.pop(); // Deverá imprimir "Pop: 20" (e 'posicao' vira 0)
+        p.peek();
         p.pop(); // Deverá imprimir "Pop: 10" (e 'posicao' vira -1)
         p.pop(); // Deverá imprimir "Pilha vazia"
 
-        System.out.println("-------------");
-        p.peek();
     }
 }
