@@ -33,7 +33,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Projetos_Avulsos/Sistema_Estoque" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Vetores_Matrizes/Matrizes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Vetores_Matrizes/Vetores" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/LinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/Arrays_Simples/Array01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/LinkedList/Exercicios/N1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/LinkedList/ListasLigadas" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

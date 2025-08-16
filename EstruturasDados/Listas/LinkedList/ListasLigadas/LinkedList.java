@@ -45,7 +45,6 @@ public class LinkedList {
 
     }
 
-    public void
     static void main() {
 
         LinkedList lista = new LinkedList();
