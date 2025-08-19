@@ -1,48 +1,104 @@
-public class ListaLigada01 {
-    No inicio;
-    No ultimo;
+public class ListaSimples {
 
-    static class No{
+    static class Node{
         int valor;
-        No proximo;
+        Node proximo;
 
-        public No(int valor){
+        Node(int valor){
             this.valor = valor;
             this.proximo = null;
         }
     }
 
+    Node inicio;
+    Node fim;
+
     public void addInicio(int valor){
-        No novoNo = new No(valor);
-        if (inicio == null){
+        Node novoNo = new Node(valor);
+        if(inicio == null && fim == null){
             inicio = novoNo;
-            System.out.println("Adicionado ao inicio: "+inicio.valor);
+            fim = novoNo;
         }else {
             novoNo.proximo = inicio;
             inicio = novoNo;
-            System.out.println("Adicionado no inicio: "+inicio.valor);
         }
     }
 
+    public void addFinal(int valor){
+        Node novoNo = new Node(valor);
+        if (inicio == null){
+            inicio = novoNo;
+            fim = novoNo;
+        }else {
+            fim.proximo = novoNo;
+            fim = novoNo;
+        }
+    }
 
+    public void inserirPos(int valor, int posicao){
+        if (posicao <= 0){
+            addInicio(valor);
+            return;
+        }
+
+        Node novoNo = new Node(valor);
+        int contador = 0;
+        Node atual = inicio;
+        while (atual != null && contador != posicao-1 ){
+            atual = atual.proximo;
+            contador++;
+        }
+        novoNo.proximo = atual.proximo;
+        atual.proximo = novoNo;
+    }
+
+    public void remover(int valor){
+        if(inicio == null){
+            System.out.println("Lista vazia");
+            return;
+        }
+        if (inicio.valor == valor){
+            inicio = inicio.proximo;
+            return;
+        }
+
+        Node atual = inicio;
+        while (atual.proximo != null && atual.proximo.valor != valor){
+            atual = atual.proximo;
+        }
+
+        if (atual.proximo != null){
+            atual.proximo = atual.proximo.proximo;
+        }
+
+        if (atual.proximo == null){
+            fim = atual;
+        }
+
+    }
 
     public void mostrarLista(){
-        No atual = inicio;
+        if(inicio == null){
+            System.out.println("Lista vazia");
+        }
+
+        Node atual = inicio;
         while (atual != null){
-            System.out.print(atual.valor +" -> ");
+            System.out.print(atual.valor+" --> ");
             atual = atual.proximo;
         }
         System.out.println("null");
     }
 
-    static void main() {
-        ListaLigada01 l = new ListaLigada01();
+    public static void main(String[] args) {
 
-        l.addInicio(1);
+        ListaSimples l = new ListaSimples();
+
+        System.out.println("----- Métodos Lista Ligada -----");
         l.addInicio(2);
-
+        l.addInicio(3);
+        l.addFinal(4);
+        l.inserirPos(10,2);
         l.mostrarLista();
-
     }
-
 }

@@ -35,8 +35,10 @@
       <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Vetores_Matrizes/Vetores" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/Arrays_Simples/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/LinkedList/LinkedList01" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/LinkedList/GeminiExercise/ListaLigada01" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/LinkedList/LinkedList02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/LinkedList/Exercicios/N1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/LinkedList/GeminiExercise/Nivel01/ListaLigada01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/List/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

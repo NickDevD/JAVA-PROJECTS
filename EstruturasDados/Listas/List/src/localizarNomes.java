@@ -1,4 +1,3 @@
-package List.src;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,7 +13,7 @@ public class localizarNomes {
         return null;
     }
 
-    public static void main(String[] args) {
+     static void main(String[] args) {
 
         List<String> listaNomes;
 
