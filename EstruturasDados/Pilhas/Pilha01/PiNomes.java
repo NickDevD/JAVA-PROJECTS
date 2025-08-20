@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class StackNome {
+public class PiNomes {
     public static void main(String[] args) {
 
         Stack<String> nomes = new Stack<>();
