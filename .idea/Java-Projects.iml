@@ -39,6 +39,9 @@
       <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/LinkedList/Exercicios/N1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/LinkedList/GeminiExercise/Nivel01/ListaLigada01" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/List/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Recursao/Fatorial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/List/Exercicios/exercicio01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/Set/Exercicios/exercicio01" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
