@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Collections;
 
-public class HashtableDemo {
+public class CresDecres {
 
     public static void main(String args[]) {
         String[] companies = { "Yahoo", "Vodafone", "Samsung" };
