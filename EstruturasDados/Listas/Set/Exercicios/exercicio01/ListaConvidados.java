@@ -24,8 +24,6 @@ public class ListaConvidados {
     }
 
     public void contarConvidados(){
-        for (String n : nomes){
-        }
         System.out.println(nomes.size());
     }
 
