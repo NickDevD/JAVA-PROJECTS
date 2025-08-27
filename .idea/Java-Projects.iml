@@ -33,15 +33,16 @@
       <sourceFolder url="file://$MODULE_DIR$/Projetos_Avulsos/Sistema_Estoque" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Vetores_Matrizes/Matrizes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Vetores_Matrizes/Vetores" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/Arrays_Simples/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/LinkedList/LinkedList01" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/LinkedList/LinkedList02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/Arrays_Simples/Array01" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/LinkedList/Exercicios/N1" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/LinkedList/GeminiExercise/Nivel01/ListaLigada01" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/List/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Recursao/Fatorial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/LinkedList/ListasLigadas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Ordenacao/Exercicios/Numeros" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Ordenacao/Sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projetos_Avulsos/Maior" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/LinkedList/Exercicios/GeminiExercise/Nivel01" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/List/Exercicios/exercicio01" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/Set/Exercicios/exercicio01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Listas/List/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EstruturasDados/Recursao/Fatorial/fator" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
